@@ -1,0 +1,27 @@
+oven
+https://ovenapp.io/view/LUSGABWM441xZ7joC1clIEvOpqiYuHBK/7Paqx
+https://www.chartjs.org/
+https://www.w3schools.com/bootstrap4/
+
+!
+Mapper.java -> Mapper.xml -> Service.java -> Controller.java
+!
+
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+
+<jsp:include page="/WEB-INF/view/inc/menu.jsp"></jsp:include>
+
+<button class="btn btn-sm btn-outline-dark" onclick="location.href=''" type="button">a</button>
+
+<!-- 부트스트랩  -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<!-- jQuery  -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!-- chart.js CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4"></script>
+<canvas id="myChart"></canvas>
+
+PATH
+"D:\\user2_stswork\\fileuploadtest\\src\\main\\webapp\\upload\\"+filename+ext
+
+54.180.138.45/cash
